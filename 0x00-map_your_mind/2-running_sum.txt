@@ -1,0 +1,12 @@
+Declare an integer variable called sum
+Declare an integer variable called numb
+initialise sum to zero
+initialise numb to zero
+for numb>0
+	input number
+	store number in the numb
+	if numb >0 
+		sum = sum + numb
+	end if
+end for
+print sum

@@ -1,0 +1,12 @@
+Declared an integer variable called n
+Declared an integer variable called sum
+Declared an integer variable called numb
+initialise sum to zeros
+initialise n to zeros
+input number
+store number in the numb
+for n <= numb
+	sum= sum+ n*n
+end for
+
+print sum

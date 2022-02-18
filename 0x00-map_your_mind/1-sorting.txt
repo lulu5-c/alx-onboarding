@@ -1,0 +1,29 @@
+Declared an integer tmp   // tmp is temporary storage
+Declared an integer n1
+Declared an integer n2
+Declared an integer n3
+initialise  tmp to zeros
+input three numbers
+store first number in the n1
+store second number in the n2
+store third number in the n3
+
+if n1 >= n2
+	tmp= n2
+	n2 = n1 
+	n1 = tmp
+end if
+if n2 >= n3
+	tmp = n3
+	n3 = n2 
+	n2 = tmp
+end if
+if n1 > n2
+	
+	tmp = n2
+	n2 = n1 
+	n1 = tmp
+end if
+print n1, n2 , n3
+	  
+	 
